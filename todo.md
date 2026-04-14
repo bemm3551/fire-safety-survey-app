@@ -207,10 +207,11 @@
 - [x] Testar no navegador Safari
 
 
-## Deploy Permanente no Netlify (Fase 13)
+## Deploy Permanente no GitHub Pages (Fase 13)
 
-- [ ] Preparar build web para produção
-- [ ] Configurar ficheiro netlify.toml
-- [ ] Fazer deploy no Netlify
-- [ ] Configurar domínio permanente
-- [ ] Testar app no domínio final
+- [x] Preparar código para GitHub
+- [x] Criar ZIP com código
+- [x] Criar instruções para upload
+- [ ] Upload dos ficheiros no GitHub
+- [ ] Ativar GitHub Pages nas definições
+- [ ] Testar app no domínio final (https://bemm3551.github.io/fire-safety-survey-app/)
